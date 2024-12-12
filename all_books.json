@@ -18,5 +18,15 @@
         "quantity": 5,
         "bookAddedAt": "12-12-2024 18:14:11",
         "bookLastUpdatedAt": ""
+    },
+    {
+        "title": "Algorithm and Data Structure",
+        "author": "Hosne Mobarak",
+        "isbn": 10564,
+        "year": 2002,
+        "price": 1200,
+        "quantity": 3,
+        "bookAddedAt": "12-12-2024 18:23:34",
+        "bookLastUpdatedAt": ""
     }
 ]
